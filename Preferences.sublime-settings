@@ -1,6 +1,7 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
 	"font_size": 12,
+	"draw_white_space": "all",
 	"ignored_packages":
 	[
 		"Vintage",
