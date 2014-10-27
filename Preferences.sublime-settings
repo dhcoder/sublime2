@@ -1,8 +1,13 @@
 {
+	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
 	"font_size": 12,
 	"ignored_packages":
 	[
 		"Vintage",
 		"Markdown Preview"
+	],
+	"rulers":
+	[
+		100
 	]
 }
