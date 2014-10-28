@@ -1,6 +1,7 @@
 {
 	"installed_packages":
 	[
+		"JSONLint",
 		"Markdown Preview",
 		"NSIS",
 		"Package Control"
